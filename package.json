@@ -1,0 +1,26 @@
+{
+  "name": "oop-implementation",
+  "version": "1.0.0",
+  "description": "home study session day one oop output",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Efosaok/homeSessiondayoneoutput.git"
+  },
+  "author": "Efosa Okpugie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Efosaok/homeSessiondayoneoutput/issues"
+  },
+  "homepage": "https://github.com/Efosaok/homeSessiondayoneoutput#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
